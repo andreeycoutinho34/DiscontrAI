@@ -2,7 +2,7 @@
 
 ## Proposta do Projeto
 
-**DiscontrAI** é uma plataforma web criada para facilitar a contratação de DJs, cantores, músicos, bandas e outros profissionais do entretenimento para eventos. O objetivo do site é conectar organizadores de festas, casamentos, aniversários, eventos corporativos e sociais com artistas qualificados, tornando o processo de busca, comparação e contratação mais simples, rápido e transparente.
+**DescontrAI** é uma plataforma web criada para facilitar a contratação de DJs, cantores, músicos, bandas e outros profissionais do entretenimento para eventos. O objetivo do site é conectar organizadores de festas, casamentos, aniversários, eventos corporativos e sociais com artistas qualificados, tornando o processo de busca, comparação e contratação mais simples, rápido e transparente.
 
 ## Funcionalidades
 
