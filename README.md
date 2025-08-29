@@ -1,4 +1,4 @@
-# DiscontrAI
+# DescontrAI
 
 ## Proposta do Projeto
 
