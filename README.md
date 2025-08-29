@@ -79,4 +79,4 @@ Se seu site for apenas arquivos estáticos (HTML, CSS, JS), você pode hospedar 
 
 ---
 
-**DiscontrAI** conecta você ao artista ideal para o seu evento!
+**DescontrAI** conecta você ao artista ideal para o seu evento!
